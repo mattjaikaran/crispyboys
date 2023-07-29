@@ -7,7 +7,6 @@
 - Black formatter
 
 TODO:
-- Admin panel
 - Passwordless auth
 
 
